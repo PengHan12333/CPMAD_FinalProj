@@ -19,10 +19,10 @@ FlavorFuse aims to streamline dining, empower local businesses, foster culinary 
    - Central hub offering easy navigation to key app features and personalized content.
 
 ## 3. Restaurant Explorer:
-   - Interactive map providing real-time updates on restaurant wait times, availability, and diverse filtering options, utilizing the Google Places API.
+   - Interactive map providing real-time updates on restaurant available, and other relevant information  utilizing the Google Places API.
 
 ## 4. Exclusive Discounts:
-   - Encourage user engagement through a dynamic loyalty program with redeemable vouchers for exclusive discounts.
+   - Encourage user engagement through a loyalty program with redeemable vouchers for exclusive discounts.
 
 ## 5. In-App Ordering:
    - Simplify the ordering process with clear item descriptions, prices, and quantity selection.
