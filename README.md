@@ -9,37 +9,37 @@ FlavorFuse aims to streamline dining, empower local businesses, foster culinary 
 
 # D. Key Functional Features
 ## 1. User Authentication:
-   - a) Account management 
+   - Account management 
      (login/logout/register/updateusername/updatepassword/update profile picture functionalities). Includes login/register/profile/about us pages.
-   - b) Two-Factor Authentication (2FA) (Optional Challenging Bonus Feature):
+   - Two-Factor Authentication (2FA) (Optional Challenging Bonus Feature):
      - Implement a secondary authentication method using Flutter packages like firebase_messaging for SMS or email verification.
      - Use the pin_code_fields package for a secure and user-friendly PIN entry interface.
 
 ## 2. Home Page:
-   - a) Central hub offering easy navigation to key app features and personalized content.
+   - Central hub offering easy navigation to key app features and personalized content.
 
 ## 3. Restaurant Explorer:
-   - a) Interactive map providing real-time updates on restaurant wait times, availability, and diverse filtering options, utilizing the Google Places API.
+   - Interactive map providing real-time updates on restaurant wait times, availability, and diverse filtering options, utilizing the Google Places API.
 
 ## 4. Exclusive Discounts:
-   - a) Encourage user engagement through a dynamic loyalty program with redeemable vouchers for exclusive discounts.
+   - Encourage user engagement through a dynamic loyalty program with redeemable vouchers for exclusive discounts.
 
 ## 5. In-App Ordering:
-   - a) Simplify the ordering process with clear item descriptions, prices, and quantity selection.
-   - b) Provide a user-friendly interface for selecting items from the menu and placing orders seamlessly.
+   - Simplify the ordering process with clear item descriptions, prices, and quantity selection.
+   - Provide a user-friendly interface for selecting items from the menu and placing orders seamlessly.
 
 ## 6. Order History:
-   - a) Allow users to view order history so that they can reoder the dishes they want and view the receipt for each successful order.
-   - b) Data Visualization (Optional Challenging Bonus Feature):
+   - Allow users to view order history so that they can reoder the dishes they want and view the receipt for each successful order.
+   - Data Visualization (Optional Challenging Bonus Feature):
      - Utilize Flutter charting libraries like fl_chart or charts_flutter to create interactive graphs and charts.
      - Illustrate cost breakdowns and spending patterns, enhancing user understanding of their expenses.
 
 # E. Data Source & Data Storage
 ## 1. Data Source:
-   - a) Leverage the Google Places API for real-time and accurate information on nearby restaurants.
+   - Leverage the Google Places API for real-time and accurate information on nearby restaurants.
 
 ## 2. Data Storage:
-   - a) Utilize Firebase for secure user authentication, personalized profiles, loyalty program, and order history.
+   - Utilize Firebase for secure user authentication, personalized profiles, loyalty program, and order history.
 
 # F. References
    1. GooglePlacesAPI
