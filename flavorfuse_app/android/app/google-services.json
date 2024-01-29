@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371460581847",
+    "project_id": "flavorfuseapp-2f6e6",
+    "storage_bucket": "flavorfuseapp-2f6e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371460581847:android:a349631328a87b65268392",
+        "android_client_info": {
+          "package_name": "com.example.flavorfuse_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6AoBKbFPk2dQh0GLs1PtwMqC5Cl5aT3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
