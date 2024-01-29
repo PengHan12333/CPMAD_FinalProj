@@ -1,0 +1,565 @@
+{
+  "__collections__": {
+    "orderhistory": {
+      "6S24ZeGjosXyyek5qg5UCNiuDLo2": {
+        "orders": [
+          {
+            "restaurantName": "Canopy Bishan",
+            "orderId": 1,
+            "fullPrice": 90.24,
+            "cartItems": [
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "26",
+                "sub_total": 11.99,
+                "unit_price": 11.99,
+                "product_details": {
+                  "itemName": "Buffalo Bliss Chicken Sandwich",
+                  "itemImage": "assets/menu/menu27.jpg"
+                },
+                "uuid": "26-2024-01-29T10:14:24.282837"
+              },
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "32",
+                "sub_total": 13.99,
+                "product_details": {
+                  "itemName": "Eggplant Elegance Parmesan",
+                  "itemImage": "assets/menu/menu33.jpg"
+                },
+                "unit_price": 13.99,
+                "uuid": "32-2024-01-29T10:14:25.483685"
+              },
+              {
+                "unique_check": null,
+                "quantity": 2,
+                "product_id": "11",
+                "sub_total": 16.99,
+                "product_details": {
+                  "itemName": "Voluptuous Vodka Penne",
+                  "itemImage": "assets/menu/menu12.jpg"
+                },
+                "unit_price": 16.99,
+                "uuid": "11-2024-01-29T10:14:26.917813"
+              },
+              {
+                "unique_check": null,
+                "quantity": 1,
+                "product_id": "42",
+                "sub_total": 16.99,
+                "unit_price": 16.99,
+                "product_details": {
+                  "itemName": "Pork Perfection Chop",
+                  "itemImage": "assets/menu/menu43.jpg"
+                },
+                "uuid": "42-2024-01-29T10:14:27.726666"
+              }
+            ],
+            "orderDate": {
+              "__datatype__": "timestamp",
+              "value": { "_seconds": 1706523273, "_nanoseconds": 903000000 }
+            }
+          },
+          {
+            "orderId": 2,
+            "restaurantName": "Creamier Handcrafted Ice Cream and Coffee (Toa Payoh)",
+            "cartItems": [
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "31",
+                "sub_total": 11.99,
+                "unit_price": 11.99,
+                "product_details": {
+                  "itemName": "Classic Charmer Hamburger",
+                  "itemImage": "assets/menu/menu32.jpg"
+                },
+                "uuid": "31-2024-01-29T10:15:44.134611"
+              },
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "21",
+                "sub_total": 14.99,
+                "unit_price": 14.99,
+                "product_details": {
+                  "itemName": "Vibrant Vegetable Lasagna",
+                  "itemImage": "assets/menu/menu22.jpg"
+                },
+                "uuid": "21-2024-01-29T10:15:45.631909"
+              }
+            ],
+            "fullPrice": 80.94,
+            "orderDate": {
+              "__datatype__": "timestamp",
+              "value": { "_seconds": 1706523349, "_nanoseconds": 733000000 }
+            }
+          },
+          {
+            "restaurantName": "Selera Rasa Nasi Lemak (#01-02)",
+            "orderId": 3,
+            "cartItems": [
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "7",
+                "sub_total": 16.99,
+                "unit_price": 16.99,
+                "product_details": {
+                  "itemName": "Wild Mushroom Risotto",
+                  "itemImage": "assets/menu/menu8.jpg"
+                },
+                "uuid": "7-2024-01-29T10:16:02.015990"
+              },
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "4",
+                "sub_total": 11.99,
+                "product_details": {
+                  "itemName": "Spicy Fusion Tacos",
+                  "itemImage": "assets/menu/menu5.jpg"
+                },
+                "unit_price": 11.99,
+                "uuid": "4-2024-01-29T10:16:03.300280"
+              },
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "11",
+                "sub_total": 16.99,
+                "unit_price": 16.99,
+                "product_details": {
+                  "itemName": "Voluptuous Vodka Penne",
+                  "itemImage": "assets/menu/menu12.jpg"
+                },
+                "uuid": "11-2024-01-29T10:16:05.725922"
+              },
+              {
+                "unique_check": null,
+                "quantity": 2,
+                "product_id": "36",
+                "sub_total": 10.99,
+                "unit_price": 10.99,
+                "product_details": {
+                  "itemName": "Avocado Avante-Garde Toast",
+                  "itemImage": "assets/menu/menu37.jpg"
+                },
+                "uuid": "36-2024-01-29T10:16:06.639479"
+              },
+              {
+                "unique_check": null,
+                "quantity": 2,
+                "product_id": "56",
+                "sub_total": 12.99,
+                "product_details": {
+                  "itemName": "Teriyaki Triumph Chicken Bowl",
+                  "itemImage": "assets/menu/menu57.jpg"
+                },
+                "unit_price": 12.99,
+                "uuid": "56-2024-01-29T10:16:08.283339"
+              }
+            ],
+            "fullPrice": 185.87,
+            "orderDate": {
+              "__datatype__": "timestamp",
+              "value": { "_seconds": 1706523371, "_nanoseconds": 6000000 }
+            }
+          },
+          {
+            "restaurantName": "Peperoni Pizzeria @ Greenwood",
+            "orderId": 4,
+            "fullPrice": 154.91,
+            "cartItems": [
+              {
+                "unique_check": null,
+                "quantity": 4,
+                "product_id": "46",
+                "sub_total": 14.99,
+                "product_details": {
+                  "itemName": "Broccoli Burst Stir Fry",
+                  "itemImage": "assets/menu/menu47.jpg"
+                },
+                "unit_price": 14.99,
+                "uuid": "46-2024-01-29T10:16:35.639152"
+              },
+              {
+                "unique_check": null,
+                "quantity": 5,
+                "product_id": "33",
+                "sub_total": 18.99,
+                "unit_price": 18.99,
+                "product_details": {
+                  "itemName": "Mango Tango Chicken Curry",
+                  "itemImage": "assets/menu/menu34.jpg"
+                },
+                "uuid": "33-2024-01-29T10:16:37.160580"
+              }
+            ],
+            "orderDate": {
+              "__datatype__": "timestamp",
+              "value": { "_seconds": 1706523407, "_nanoseconds": 709000000 }
+            }
+          }
+        ],
+        "__collections__": {}
+      },
+      "A95HYrlgLCg86u0hG2wraqGbpou1": {
+        "orders": [
+          {
+            "orderId": 1,
+            "restaurantName": "Nyonya Curry Puff Cafe",
+            "cartItems": [
+              {
+                "unique_check": null,
+                "quantity": 5,
+                "product_id": "25",
+                "sub_total": 13.99,
+                "unit_price": 13.99,
+                "product_details": {
+                  "itemName": "Tantalizing Tomato Basil Pasta",
+                  "itemImage": "assets/menu/menu26.jpg"
+                },
+                "uuid": "25-2024-01-29T03:12:16.357691"
+              }
+            ],
+            "fullPrice": 69.95,
+            "orderDate": {
+              "__datatype__": "timestamp",
+              "value": { "_seconds": 1706522526, "_nanoseconds": 714000000 }
+            }
+          },
+          {
+            "restaurantName": "Crystal Jade Golden Palace",
+            "orderId": 2,
+            "fullPrice": 49.56,
+            "cartItems": [
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "4",
+                "sub_total": 11.99,
+                "unit_price": 11.99,
+                "product_details": {
+                  "itemName": "Spicy Fusion Tacos",
+                  "itemImage": "assets/menu/menu5.jpg"
+                },
+                "uuid": "4-2024-01-29T03:14:48.046964"
+              },
+              {
+                "unique_check": null,
+                "quantity": 2,
+                "product_id": "35",
+                "sub_total": 12.99,
+                "unit_price": 12.99,
+                "product_details": {
+                  "itemName": "Mouthwatering Margherita Calzone",
+                  "itemImage": "assets/menu/menu36.jpg"
+                },
+                "uuid": "35-2024-01-29T03:14:49.950801"
+              }
+            ],
+            "orderDate": {
+              "__datatype__": "timestamp",
+              "value": { "_seconds": 1706498101, "_nanoseconds": 840000000 }
+            }
+          },
+          {
+            "orderId": 3,
+            "restaurantName": "Popeyes Ang Mo Kio Hub",
+            "fullPrice": 150.91,
+            "cartItems": [
+              {
+                "unique_check": null,
+                "quantity": 2,
+                "product_id": "33",
+                "sub_total": 18.99,
+                "unit_price": 18.99,
+                "product_details": {
+                  "itemName": "Mango Tango Chicken Curry",
+                  "itemImage": "assets/menu/menu34.jpg"
+                },
+                "uuid": "33-2024-01-29T03:15:15.476834"
+              },
+              {
+                "unique_check": null,
+                "quantity": 2,
+                "product_id": "2",
+                "sub_total": 14.99,
+                "product_details": {
+                  "itemName": "Bella Napoli Pizza",
+                  "itemImage": "assets/menu/menu3.jpg"
+                },
+                "unit_price": 14.99,
+                "uuid": "2-2024-01-29T03:15:16.148691"
+              },
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "6",
+                "sub_total": 18.99,
+                "unit_price": 18.99,
+                "product_details": {
+                  "itemName": "Garlic Butter Shrimp Scampi",
+                  "itemImage": "assets/menu/menu7.jpg"
+                },
+                "uuid": "6-2024-01-29T03:15:23.014677"
+              },
+              {
+                "unique_check": null,
+                "quantity": 2,
+                "product_id": "10",
+                "sub_total": 12.99,
+                "product_details": {
+                  "itemName": "Mediterranean Goddess Salad",
+                  "itemImage": "assets/menu/menu11.jpg"
+                },
+                "unit_price": 12.99,
+                "uuid": "10-2024-01-29T03:15:27.677014"
+              }
+            ],
+            "orderDate": {
+              "__datatype__": "timestamp",
+              "value": { "_seconds": 1706498131, "_nanoseconds": 149000000 }
+            }
+          },
+          {
+            "orderId": 4,
+            "restaurantName": "Creamier Handcrafted Ice Cream and Coffee (Toa Payoh)",
+            "fullPrice": 183.87,
+            "cartItems": [
+              {
+                "unique_check": null,
+                "quantity": 4,
+                "product_id": "15",
+                "sub_total": 15.99,
+                "product_details": {
+                  "itemName": "Veggie Paradise Pizza",
+                  "itemImage": "assets/menu/menu16.jpg"
+                },
+                "unit_price": 15.99,
+                "uuid": "15-2024-01-29T03:15:49.666391"
+              },
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "0",
+                "sub_total": 15.99,
+                "product_details": {
+                  "itemName": "Savory Truffle Linguine",
+                  "itemImage": "assets/menu/menu1.jpg"
+                },
+                "unit_price": 15.99,
+                "uuid": "0-2024-01-29T03:15:50.938280"
+              },
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "51",
+                "sub_total": 11.99,
+                "unit_price": 11.99,
+                "product_details": {
+                  "itemName": "Caprese Symphony Salad",
+                  "itemImage": "assets/menu/menu52.jpg"
+                },
+                "uuid": "51-2024-01-29T03:15:52.270418"
+              },
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "9",
+                "sub_total": 11.99,
+                "product_details": {
+                  "itemName": "Caprese Panini Bliss",
+                  "itemImage": "assets/menu/menu10.jpg"
+                },
+                "unit_price": 11.99,
+                "uuid": "9-2024-01-29T03:15:53.208160"
+              }
+            ],
+            "orderDate": {
+              "__datatype__": "timestamp",
+              "value": { "_seconds": 1706498155, "_nanoseconds": 564000000 }
+            }
+          },
+          {
+            "orderId": 5,
+            "restaurantName": "Creamier Handcrafted Ice Cream and Coffee (Toa Payoh)",
+            "cartItems": [
+              {
+                "unique_check": null,
+                "quantity": 4,
+                "product_id": "40",
+                "sub_total": 8.99,
+                "product_details": {
+                  "itemName": "Nostalgic Chicken Noodle Soup",
+                  "itemImage": "assets/menu/menu41.jpg"
+                },
+                "unit_price": 8.99,
+                "uuid": "40-2024-01-29T04:29:14.684264"
+              },
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "41",
+                "sub_total": 11.99,
+                "product_details": {
+                  "itemName": "Bruschetta Bliss",
+                  "itemImage": "assets/menu/menu42.jpg"
+                },
+                "unit_price": 11.99,
+                "uuid": "41-2024-01-29T04:29:15.912836"
+              },
+              {
+                "unique_check": null,
+                "quantity": 2,
+                "product_id": "26",
+                "sub_total": 11.99,
+                "unit_price": 11.99,
+                "product_details": {
+                  "itemName": "Buffalo Bliss Chicken Sandwich",
+                  "itemImage": "assets/menu/menu27.jpg"
+                },
+                "uuid": "26-2024-01-29T04:29:17.494477"
+              },
+              {
+                "unique_check": null,
+                "quantity": 2,
+                "product_id": "36",
+                "sub_total": 10.99,
+                "unit_price": 10.99,
+                "product_details": {
+                  "itemName": "Avocado Avante-Garde Toast",
+                  "itemImage": "assets/menu/menu37.jpg"
+                },
+                "uuid": "36-2024-01-29T04:29:18.474306"
+              }
+            ],
+            "fullPrice": 117.89,
+            "orderDate": {
+              "__datatype__": "timestamp",
+              "value": { "_seconds": 1706502562, "_nanoseconds": 596000000 }
+            }
+          },
+          {
+            "orderId": 6,
+            "restaurantName": "Canopy Bishan",
+            "fullPrice": 151.1,
+            "cartItems": [
+              {
+                "unique_check": null,
+                "quantity": 3,
+                "product_id": "39",
+                "sub_total": 17.99,
+                "unit_price": 17.99,
+                "product_details": {
+                  "itemName": "Tandoori Triumph Chicken",
+                  "itemImage": "assets/menu/menu40.jpg"
+                },
+                "uuid": "39-2024-01-29T10:05:00.345418"
+              },
+              {
+                "unique_check": null,
+                "quantity": 2,
+                "product_id": "41",
+                "sub_total": 11.99,
+                "unit_price": 11.99,
+                "product_details": {
+                  "itemName": "Bruschetta Bliss",
+                  "itemImage": "assets/menu/menu42.jpg"
+                },
+                "uuid": "41-2024-01-29T10:05:01.286149"
+              },
+              {
+                "unique_check": null,
+                "quantity": 4,
+                "product_id": "45",
+                "sub_total": 12.99,
+                "unit_price": 12.99,
+                "product_details": {
+                  "itemName": "Chicken Tender Temptation",
+                  "itemImage": "assets/menu/menu46.jpg"
+                },
+                "uuid": "45-2024-01-29T10:05:04.222315"
+              },
+              {
+                "unique_check": null,
+                "quantity": 2,
+                "product_id": "33",
+                "sub_total": 18.99,
+                "unit_price": 18.99,
+                "product_details": {
+                  "itemName": "Mango Tango Chicken Curry",
+                  "itemImage": "assets/menu/menu34.jpg"
+                },
+                "uuid": "33-2024-01-29T10:05:05.541275"
+              }
+            ],
+            "orderDate": {
+              "__datatype__": "timestamp",
+              "value": { "_seconds": 1706522714, "_nanoseconds": 840000000 }
+            }
+          }
+        ],
+        "__collections__": {}
+      },
+      "OfM0zpoF3UQjPi0c9xrIykFsyxh2": { "orders": [], "__collections__": {} }
+    },
+    "users": {
+      "6S24ZeGjosXyyek5qg5UCNiuDLo2": {
+        "password": "qwerty",
+        "fullname": "Bromoment",
+        "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/flavorfuseapp-2f6e6.appspot.com/o/6S24ZeGjosXyyek5qg5UCNiuDLo2?alt=media&token=82ff9458-f415-4a89-8080-b6ec7c3597f5",
+        "email": "insectreplent@gmail.com",
+        "claimedVouchers": [
+          {
+            "discount": 10,
+            "dateClaimed": "2024-01-27 06:56:09.347942",
+            "voucherCode": "10% Off on Your Next Order"
+          },
+          {
+            "discount": 20,
+            "dateClaimed": "2024-01-27 06:56:11.393697",
+            "voucherCode": "Gift Voucher 20%"
+          }
+        ],
+        "__collections__": {}
+      },
+      "A95HYrlgLCg86u0hG2wraqGbpou1": {
+        "password": "qwerty123",
+        "fullname": "sdfsdfj",
+        "profileImageUrl": "https://firebasestorage.googleapis.com/v0/b/flavorfuseapp-2f6e6.appspot.com/o/A95HYrlgLCg86u0hG2wraqGbpou1?alt=media&token=1b4efe14-a17f-4b82-aa31-bb02ada774d3",
+        "email": "henghan442@gmail.com",
+        "claimedVouchers": [
+          {
+            "discount": 20,
+            "dateClaimed": "2024-01-29 04:31:32.662076",
+            "voucherCode": "Gift Voucher 20%"
+          },
+          {
+            "discount": 30,
+            "dateClaimed": "2024-01-29 04:31:33.785844",
+            "voucherCode": "Gift Voucher 30%"
+          }
+        ],
+        "__collections__": {}
+      },
+      "OfM0zpoF3UQjPi0c9xrIykFsyxh2": {
+        "password": "qwerty",
+        "fullname": "Bromoment2",
+        "profileImageUrl": "",
+        "email": "insectrepelent@gmail.com",
+        "__collections__": {}
+      },
+      "uvaPoPGa5LOMubgW3KLjJrTTEq62": {
+        "password": "Testonly123!",
+        "fullname": "Guest",
+        "profileImageUrl": "",
+        "email": "guestonlyfortest@gmail.com",
+        "__collections__": {}
+      }
+    }
+  }
+}
