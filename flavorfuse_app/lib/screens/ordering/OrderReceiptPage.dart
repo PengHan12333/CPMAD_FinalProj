@@ -1,4 +1,3 @@
-import 'package:flavorfuse_app/screens/ordering/OrderHistoryPage.dart';
 import 'package:flavorfuse_app/services/order_history_service.dart';
 import 'package:flavorfuse_app/shared_nav_bar/navbar.dart';
 import 'package:flutter/material.dart';
@@ -332,11 +331,5 @@ class _OrderReceiptState extends State<OrderReceipt> {
         ),
       ],
     );
-  }
-
-  void _reorder() {
-    // Implement your reorder logic here
-    // For example, you can add items from this receipt to the cart for reorder
-    // Make sure to handle the logic based on your flutter_cart package implementation
   }
 }
