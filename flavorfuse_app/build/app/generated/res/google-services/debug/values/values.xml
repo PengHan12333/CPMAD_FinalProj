@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">371460581847</string>
+    <string name="google_api_key" translatable="false">AIzaSyA6AoBKbFPk2dQh0GLs1PtwMqC5Cl5aT3g</string>
+    <string name="google_app_id" translatable="false">1:371460581847:android:a349631328a87b65268392</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA6AoBKbFPk2dQh0GLs1PtwMqC5Cl5aT3g</string>
+    <string name="google_storage_bucket" translatable="false">flavorfuseapp-2f6e6.appspot.com</string>
+    <string name="project_id" translatable="false">flavorfuseapp-2f6e6</string>
+</resources>
